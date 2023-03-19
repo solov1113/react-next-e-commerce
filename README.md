@@ -1,6 +1,9 @@
 <br />
-<p align="center">  
+<p align="center">
+  <a href="https://github.com/eircdev0212/next-e-commerce">
     <img src="https://i.ibb.co/ZzG3GtN/index.png" alt="Header photo" >
+  </a>
+
   <h3 align="center">E-Commerce Website</h3>
   
   <h4 align="center">Demo: <a href="https://next-e-commerce-example.vercel.app/">https://next-e-commerce-example.vercel.app/</a></h4>
@@ -8,7 +11,7 @@
   <p align="center">
     An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.
     <br />
-    <br />  
+    <br />
   </p>
 </p>
 
@@ -112,54 +115,3 @@ NEXT_PUBLIC_FIREBASE_APP_ID = your-firebase-app-id
 ```sh
 npm run dev
 ```
-
-<!-- Issues / Future plans -->
-
-## Issues - Future plans
-
-- Filter and Sort buttons
-- Optimize firestore query functions
-- On cart page, decrease item button is not working
-- ~~Website will be %100 responsive~~
-- Replace some HTML tags with semantic tags
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- Q & A -->
-
-## Q & A
-
-- Question: I created Firebase project but I do not familiar with it. What should I do then?
-  **Answer**: You can contact me about setting your Firebase project, I would gladly help you.
-
-- Question: I created Firebase project but I do not have database structure. What should I do then?
-  **Answer**: Please contact me to get database structure I created.
-
-- Question: Why did not you share your database structure?
-  **Answer**: I just want to know if someone is interest in this project :D
-
-- Question: How can I contribute?
-  **Answer**: It makes me happy even if you just star this project. For code [contributes](#contributing), you can fork the repo and open a pull request after your changes. Any feedback is also important for me. You can open issue or send me message.
-
-- Question: Did you design UI?
-  **Answer**: No, I did not design actually. I found home page design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9404340-Shop-Clothing-Web-Page). Except home page, other UI choices is mine. While I made this website in limited time, I did not think on UI/UX a lot. So you can also feedback me about design.
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the GPL License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-
