@@ -1,9 +1,6 @@
 <br />
-<p align="center">
-  <a href="https://github.com/anilsenay/next-e-commerce">
+<p align="center">  
     <img src="https://i.ibb.co/ZzG3GtN/index.png" alt="Header photo" >
-  </a>
-
   <h3 align="center">E-Commerce Website</h3>
   
   <h4 align="center">Demo: <a href="https://next-e-commerce-example.vercel.app/">https://next-e-commerce-example.vercel.app/</a></h4>
@@ -11,12 +8,7 @@
   <p align="center">
     An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.
     <br />
-    <br />
-    <a href="https://twitter.com/anilsenay">Contact me</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Request Feature</a>
+    <br />  
   </p>
 </p>
 
@@ -101,11 +93,6 @@ I saw a UI design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9
 
 2. Clone the repo and change the directory
 
-```sh
-git clone https://github.com/anilsenay/next-e-commerce.git
-cd next-e-commerce
-```
-
 3. Install NPM packages
 
 ```sh
@@ -175,8 +162,4 @@ Distributed under the GPL License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
-## Contact
 
-[@anilsenay](https://twitter.com/anilsenay)
-
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
